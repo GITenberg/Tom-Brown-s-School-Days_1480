@@ -1,0 +1,60 @@
+_repo: Tom-Brown-s-School-Days_1480
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 1480/1480/1480-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Hughes, Thomas
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '645'
+    url: http://www.gutenberg.org/2009/agents/645
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hughes
+description: "Tom Brown's School Days (sometimes written Tom Brown's Schooldays, also\
+  \ published under the titles Tom Brown at Rugby, School Days at Rugby, and Tom Brown's\
+  \ School Days at Rugby) is an 1857 novel by Thomas Hughes. The story is set in the\
+  \ 1830s at Rugby School, a public school for boys. Hughes attended Rugby School\
+  \ from 1834 to 1842.\nThe novel was originally published as being \"by an Old Boy\
+  \ of Rugby\", and much of it is based on the author's experiences. Tom Brown is\
+  \ largely based on the author's brother George Hughes. George Arthur, another of\
+  \ the book's main characters, is generally believed to be based on Arthur Penrhyn\
+  \ Stanley. The fictional Tom's life also resembles the author's, in that the culminating\
+  \ event of his school career was a cricket match. The novel also features Dr Thomas\
+  \ Arnold (1795–1842), who was the actual headmaster of Rugby School from 1828 to\
+  \ 1841.\nTom Brown's School Days has been the source for several film and television\
+  \ adaptations. It also influenced the genre of British school novels, which began\
+  \ in the 19th century, and led to fictional depictions of schools such as Billy\
+  \ Bunter's Greyfriars School, Mr Chips' Brookfield, St. Trinian's, and Harry Potter's\
+  \ Hogwarts. A sequel, Tom Brown at Oxford, was published in 1861.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: School Stories
+gutenberg_issued: '2006-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1480'
+  wikidata: Q7815084
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Endowed public schools (Great Britain) -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Rugby School -- Fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Tom Brown's School Days
+url: http://www.gutenberg.org/ebooks/1480
+wikipedia:
+- https://en.wikiquote.org/wiki/Tom_Brown%27s_School_Days
+- https://fr.wikipedia.org/wiki/Tom_Brown%27s_School_Days_(roman)
+- https://en.wikisource.org/wiki/Tom_Brown%27s_School_Days
+- https://en.wikipedia.org/wiki/Tom_Brown%27s_School_Days
+- https://commons.wikimedia.org/wiki/Category:Tom_Brown%27s_School_Days
