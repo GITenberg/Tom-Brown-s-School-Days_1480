@@ -1,10 +1,8 @@
 _repo: Tom-Brown-s-School-Days_1480
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 1480/1480/1480-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 1480/1480-h/images/cover.jpg
 creator:
   author:
     agent_name: Hughes, Thomas
@@ -30,6 +28,8 @@ description: "Tom Brown's School Days (sometimes written Tom Brown's Schooldays,
   \ Bunter's Greyfriars School, Mr Chips' Brookfield, St. Trinian's, and Harry Potter's\
   \ Hogwarts. A sequel, Tom Brown at Oxford, was published in 1861.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1480#Tom-Brown-s-School-Days
 gutenberg_bookshelf: School Stories
 gutenberg_issued: '2006-02-15'
 gutenberg_type: Text
